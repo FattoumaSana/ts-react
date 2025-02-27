@@ -60,11 +60,3 @@ fattoumasana-ts-react/ ├── package.json └── mon-app-typescript/ ├�
 This `package.json` located at the root level contains only the development dependencies for TypeScript.
 
 ```json
-{
-  "devDependencies": {
-    "@types/node": "^22.13.5",
-    "@types/react": "^19.0.10",
-    "@types/react-dom": "^19.0.4",
-    "typescript": "^5.7.3"
-  }
-}
