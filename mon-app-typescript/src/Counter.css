@@ -1,0 +1,43 @@
+/* Styles pour le composant Counter */
+.counter {
+  /* Alignement du texte au centre */
+  text-align: center;
+  /* Remplissage intérieur pour espacer le contenu du bord */
+  padding: 20px;
+  /* Bordure pour délimiter le composant */
+  border: 1px solid #ddd;
+  /* Bordure arrondie pour adoucir les angles */
+  border-radius: 4px;
+  /* Marge supérieure pour espacer le composant des autres éléments */
+  margin-top: 20px;
+}
+
+/* Styles pour le paragraphe de compteur */
+.counter p {
+  /* Taille de la police pour le compteur */
+  font-size: 1.2em;
+  /* Marge inférieure pour espacer le compteur du bouton */
+  margin-bottom: 10px;
+}
+
+/* Styles pour le bouton d'incrémentation */
+.counter button {
+  /* Remplissage intérieur pour le bouton */
+  padding: 10px 20px;
+  /* Couleur de fond pour le bouton */
+  background-color: #28a745;
+  /* Couleur du texte pour le bouton */
+  color: white;
+  /* Suppression de la bordure du bouton */
+  border: none;
+  /* Bordure arrondie pour le bouton */
+  border-radius: 4px;
+  /* Curseur pointeur pour indiquer que le bouton est cliquable */
+  cursor: pointer;
+}
+
+/* Styles pour le bouton d'incrémentation au survol */
+.counter button:hover {
+  /* Couleur de fond plus foncée pour le bouton au survol */
+  background-color: #218838;
+}

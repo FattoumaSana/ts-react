@@ -1,0 +1,9 @@
+/* Styles pour le composant Greeting */
+.greeting {
+  /* Taille de la police pour le message de salutation */
+  font-size: 1.5em;
+  /* Couleur du texte pour le message de salutation */
+  color: #007bff;
+  /* Marge inférieure pour espacer le message des autres éléments */
+  margin-bottom: 10px;
+}
