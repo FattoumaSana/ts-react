@@ -43,9 +43,6 @@ This `package.json` located at the root level contains only the development depe
     "typescript": "^5.7.3"
   }
 }
-Absolument ! Voici une version mise à jour de votre README.md qui reflète les changements apportés, notamment l'ajout des styles CSS et l'amélioration des commentaires dans le code :
-
-Réduction
 
 # fattoumasana-ts-react
 
